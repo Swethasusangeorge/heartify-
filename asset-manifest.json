@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/heartify-/static/css/main.94dc4e89.css",
-    "main.js": "/heartify-/static/js/main.14242e11.js",
-    "static/js/453.64512fd7.chunk.js": "/heartify-/static/js/453.64512fd7.chunk.js",
-    "index.html": "/heartify-/index.html",
-    "main.94dc4e89.css.map": "/heartify-/static/css/main.94dc4e89.css.map",
-    "main.14242e11.js.map": "/heartify-/static/js/main.14242e11.js.map",
-    "453.64512fd7.chunk.js.map": "/heartify-/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/test-/static/css/main.94dc4e89.css",
+    "main.js": "/test-/static/js/main.32542b51.js",
+    "static/js/453.64512fd7.chunk.js": "/test-/static/js/453.64512fd7.chunk.js",
+    "index.html": "/test-/index.html",
+    "main.94dc4e89.css.map": "/test-/static/css/main.94dc4e89.css.map",
+    "main.32542b51.js.map": "/test-/static/js/main.32542b51.js.map",
+    "453.64512fd7.chunk.js.map": "/test-/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94dc4e89.css",
-    "static/js/main.14242e11.js"
+    "static/js/main.32542b51.js"
   ]
 }
